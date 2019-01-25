@@ -1,0 +1,139 @@
+.spis{
+
+	background-color:grey;
+	border: 5px solid green;
+	margin: 5px;
+	padding:5px;		
+}
+
+.spis h2 {
+	margin-top: 0px;
+	margin-bottom:5px;
+}
+.spis ul {
+	list-style-type: square;
+	display:inline-block;
+	margin:0px;
+}
+.spis li {
+	color:red;
+	float:left;
+	padding-right: 100px;
+}
+
+
+.tresc{
+	border: 5px solid green;
+	margin-right: 50px;
+	max-width: 900px;
+	width: 100%;
+	background-color:grey;
+	margin: 5px;
+	padding:5px;		
+
+}
+.title{
+	border: 5px solid green;
+	background-color:grey;
+	margin: 5px;
+	padding:5px;		
+	font-size:150%;
+	color: white;
+	letter-spacing: 10px;
+	text-align: center;
+}
+
+
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: red;
+}
+
+h1 {
+	color: red;
+	letter-spacing: 5px;
+}
+
+h2 {
+	color: yellow;
+}
+
+h3 {
+	color: blue
+}
+
+h4 {
+	color: green
+}
+
+h5 {
+	color: pink;
+}
+
+p {
+
+	text-indent: 3em;
+}
+
+p::first-letter{
+	font-size: 150%;
+	
+}
+
+table {
+	border: 2px solid blue;
+	
+}
+th, td{
+	border: 1px solid green;
+	
+}
+
+.col1 {
+	background-color: red;
+}
+
+thead {
+	background-color: black;
+	color: white;
+	text-transform: uppercase;
+}
+
+
+
+ol{
+	list-style-type: upper-roman;
+}
+ol ol, ol ul{
+	list-style-type: lower-roman;
+}
+
+ol ol ol {
+	list-style-type: lower-greek;
+}
+.img1 {
+float: left;
+}
+.img2{
+float: right;
+}
+
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+cursor:default;
+color:red;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+
+
+

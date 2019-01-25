@@ -1,0 +1,12 @@
+start-->admin
+nazwa-->user
+test2-->admin2
+nowy-->ja
+abc-->def
+abcd-->defg
+-->
+-->
+-->
+-->
+-->
+abcdd-->abcdd
